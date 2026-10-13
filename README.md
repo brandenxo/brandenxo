@@ -16,5 +16,13 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,fastapi,aws,terraform,mysql,sqlite,git&theme=dark" alt="Python, JavaScript, C, FastAPI, AWS, Terraform, MySQL, SQLite, Git" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
