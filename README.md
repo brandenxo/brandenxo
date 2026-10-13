@@ -14,16 +14,15 @@
   <a href="https://github.com/brandenxo/tally"><img src="https://img.shields.io/badge/TALLY-181818?style=for-the-badge" alt="Tally" /></a>
 </p>
 
-<br>
 
 <p align="center">
-  <img height="44" src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img height="44" src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img height="44" src="https://img.shields.io/badge/C-181818?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img height="44" src="https://img.shields.io/badge/FastAPI-181818?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img height="44" src="https://img.shields.io/badge/AWS-181818?style=for-the-badge" alt="AWS" />
-  <img height="44" src="https://img.shields.io/badge/Terraform-181818?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img height="44" src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img height="44" src="https://img.shields.io/badge/SQLite-181818?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img height="44" src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img height="38" src="https://custom-icon-badges.demolab.com/badge/AWS-181818.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />&nbsp;
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
